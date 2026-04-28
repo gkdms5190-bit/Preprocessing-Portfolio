@@ -19,4 +19,4 @@
 * [cite_start]1분기(Q1) 집중 현상에 따른 연초 대응 전략 수립 필요성 도출 [cite: 71, 72]
 * [cite_start]식자재 및 의료기기 관련 반복 발주 사업이 높은 예산 비중 점유 [cite: 11]
 
-##* [Tableau Dashboard 바로가기]([주소](https://public.tableau.com/views/____17773691324360/4?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+##* [Tableau Dashboard 바로가기](https://public.tableau.com/views/____17773691324360/1_1?:language=ko-KR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
